@@ -1,3 +1,7 @@
+# React app created with Breaking Bad API
+
+Created as part of [Traversy Media Tutorial](https://www.youtube.com/watch?v=YaioUnMw0mo)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
